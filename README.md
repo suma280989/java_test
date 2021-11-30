@@ -10,5 +10,3 @@ Third commit and push
 Fourth commit and push
 
 Fifth commit and push
-
-Sixth commit and push
